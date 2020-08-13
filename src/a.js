@@ -1,0 +1,1 @@
+module.exports='i im a.js'
