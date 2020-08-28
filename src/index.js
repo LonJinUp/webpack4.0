@@ -1,6 +1,11 @@
-console.log("hello lonjin")
+// console.log("hello lonjin")
 
-let a=require('./a.js')
+// let a=require('./a.js')
 
-console.log(000)
+// console.log(000)
+
+require('./index.css')
+require('./index.less') 
+
+
 
